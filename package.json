@@ -37,6 +37,6 @@
     "split2": "^1.0.0",
     "subarg": "^1.0.0",
     "through2": "^2.0.0",
-    "travisci-webhook-handler": "^2.0.0"
+    "travisci-webhook-handler": "https://github.com/netgusto/travisci-webhook-handler/tarball/master"
   }
 }
